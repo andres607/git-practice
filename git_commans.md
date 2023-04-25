@@ -6,7 +6,7 @@ git clone: se usa para clonar repositorios
 
 git pull:
 
-git checkout:
+git checkout: Se usa para posicionarse en un punto en concreto de los commits hechos o ficheros existentes
 
 git log:
 
