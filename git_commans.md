@@ -12,9 +12,9 @@ git log: Se usa para ver el historial de commits realizados
 
 git branch: Se usa para crear o cambiar el nombre de una rama
 
-git add:
+git add: Se utiliza para agregar un fichero a un repositorio cuando se han realizado cambios en este
 
-git commit:
+git commit: Se usa para guardar los cambios realizados en el fichero
 
 git push:
 
