@@ -8,9 +8,9 @@ git pull:
 
 git checkout: Se usa para posicionarse en un punto en concreto de los commits hechos o ficheros existentes
 
-git log:
+git log: Se usa para ver el historial de commits realizados
 
-git branch:
+git branch: Se usa para crear o cambiar el nombre de una rama
 
 git add:
 
