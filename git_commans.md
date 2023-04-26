@@ -4,7 +4,7 @@ git status: Este comando se usa para obtener el estado actual del repositorio
 
 git clone: se usa para clonar repositorios
 
-git pull:
+git pull:Se usa para descargar el historial y los cambios realizados en el repositorio
 
 git checkout: Se usa para posicionarse en un punto en concreto de los commits hechos o ficheros existentes
 
@@ -16,6 +16,6 @@ git add: Se utiliza para agregar un fichero a un repositorio cuando se han reali
 
 git commit: Se usa para guardar los cambios realizados en el fichero
 
-git push:
+git push:Se usa para subir los cambios a un fichero del local al remoto 
 
-git merge:
+git merge: se usa para combinar los cambios realizados hechos por compañeros de trabajo
